@@ -65,9 +65,9 @@
   </body>
 </html>
 
-** end of undefined **
+** end of HTML **
 
-** start of undefined **
+** start of CSS **
 
 body {
   background-color: rgb(12, 100, 255);
