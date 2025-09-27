@@ -37,7 +37,7 @@
            <strong>2040 - 2042</strong> - Within 2 years of working at the company, she was promoted to the position of Chief Scientist of the company.
          </li>
          <li>
-           <strong>2040 - 2048</strong> - Over the next 8 years of getting hired at the company, her work in the design and development of "<a href="https://sustech.iit.it/research/green-robotics">green robots</a>" led to the company being in the lead in manufacturing technology that minimized and reversed damage to the environment the effects of climate change. 
+           <strong>2040 - 2048</strong> - Over the next 8 years of getting hired at the company, her work in the design and development of "<a href="https://sustech.iit.it/research/green-robotics">green robots</a>" led to the company being in the lead in manufacturing technology that minimized and reversed damage to the environment by the effects of climate change. 
          </li>
          <li>
            <strong>2048</strong> - Elisabet resigned from the company after becoming disgusted at Faro's decision to take the company into the military automatation market. She continued her work in green robot technology, starting her own sucessful environmental technology company <a href="https://horizon.fandom.com/wiki/Miriam_Technologies">Miriam Technologies</a>.
